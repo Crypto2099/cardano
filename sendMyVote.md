@@ -46,7 +46,7 @@ cat payment.addr
 
 As mentioned previously, you will now need to send a small amount of Ada to this address in order to pay the transaction fees for submitting your vote.
 
-You can use the `cardano-cli` to send funds from another command line wallet or you can send funds from Daedalus or Yoroi.
+You can use the `cardano-cli` to send funds from another command line wallet or you can send funds from Daedalus or Yoroi. (Creating a simple transaction official documentation: https://docs.cardano.org/projects/cardano-node/en/latest/stake-pool-operations/simple_transaction.html)
 
 Once you have sent funds, you can use `cardano-cli` to check the balance of your voting wallet to ensure you're ready to proceed
 
